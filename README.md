@@ -10,7 +10,7 @@
 # Setup Instructions
  ## 1. Repository Clone:
  ### To begin, clone this repository to your local machine:
-  git clone YOUR_REPOSITORY_URL_HERE
+  git clone https://github.com/kiranshanmukha83099-eng/project-chronos
   cd project-chronos
 
  ## 2. Environment Setup:
