@@ -1,7 +1,8 @@
 # Project title: The AI Archeologist
 
 # Student Name(s) and ID(s)
-- T Kiran Shanmukha Sai 
+ T Kiran Shanmukha Sai 
+ SE25UCSE009
 
 # Project Description
  Project Chronos is an AI-powered Python application that reconstructs fragmented, informal, or ancient-style messages into clear, full sentences. Using the Google Gemini API, it acts like a digital archeologist — decoding cryptic internet slang, poetic fragments, and symbolic language into readable form. The goal is to preserve meaning across time and context, making even the most obscure messages understandable.
